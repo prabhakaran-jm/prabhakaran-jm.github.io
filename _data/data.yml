@@ -1,0 +1,72 @@
+name: Prabhakaran Jayaraman Masani
+support_dark_mode: true
+# fork: true
+
+# Sidebar
+contact:
+  email: prabhakaran.jm@gmail.com
+  github: prabhakaran-jm
+  linkedin: prabhakaranjm
+  phone: 
+  gitlab: 
+  twitter: 
+
+languages:
+  - idiom: English
+  - idiom: Tamil
+
+education:
+  - degree: M.Tech in Computing Systems and Infrastructure
+    time: 2018-2020
+    university: Birla Institute of Technology and Science
+
+  - degree: BE in Mechanical Engineering
+    time: 2000-2003
+    university: Bharathidasan University
+
+skills:
+  - category: Cloud
+    skill: 
+      - AWS
+      - Azure
+      - GCP
+  - category: DevOps
+    skill:
+      - Terraform
+      - GitLab
+      - Docker
+      - Kubernetes 
+
+# Profile
+profile: |
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
+
+# Experience
+experience:
+  - role: Google Cloud Platform Architect
+    time: 2022-Present
+    company: Virgin Media O2
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Google Cloud, Terraform, GitLab, Kubernetes
+  
+  - role: Cloud Architect
+    time: 2019-2022
+    company: TCS
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      AWS, Google Cloud, Terraform, GitLab, Jenkins, Kubernetes
